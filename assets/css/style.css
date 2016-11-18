@@ -1,0 +1,43 @@
+#bodily{
+    background-color:lightgray;
+    }
+
+.display{
+    width: 40em;
+    text-align: justify;
+    padding: 2em;
+    border: 3px solid wheat;
+    margin-left: 5em;
+    background-color: white;
+}
+
+.add-more{
+    padding-bottom: 35em;
+}
+
+.profile-image{
+    border-right: 1px solid gray;
+}
+
+.ruler{
+    border-top: 1px solid gray;
+    margin-top: 14px;
+    margin-left: 8px;
+}
+
+.rula{
+    border: 1px solid grey;
+    margin-top: 8px;
+    width: 40em;
+}
+
+footer{
+    color: rosybrown !important;
+    border-top: 1px red solid;
+    max-height: 5em !important;
+}
+
+.move-this{
+    margin-left: 5px;
+}
+
